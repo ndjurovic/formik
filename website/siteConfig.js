@@ -26,6 +26,12 @@ const users = [
     pinned: true,
   },
   {
+    caption: 'TopShipment',
+    image: '/formik/img/logos/topshipment.svg',
+    infoLink: 'https://topshipment.com',
+    pinned: true,
+  },
+  {
     caption: 'Walmart',
     image: '/formik/img/logos/walmart.svg',
     infoLink: 'https://walmart.com',
